@@ -3,7 +3,7 @@ public class Palindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str1, str2="", str3;
+	/*	String str1, str2="", str3;
 		Scanner scnr=new Scanner(System.in);
 		do {
 		System.out.println("Enter the string: ");
@@ -24,7 +24,20 @@ public class Palindrome {
 		str3=scnr.next();
 		}
 		while(str3.equalsIgnoreCase("y"));		
-
+*/
+		/*int m[][]= {{1,2,3},{4,5,6},{7,8,9}};
+		int sum=0;
+		for(int i=0;i<3;++i) {
+			for(int j=i;j<3;++j) {
+				sum=sum+m[i][j];
+			}
+			System.out.println(sum);
+		}*/
+		
+		Integer number=null;
+		Integer arr[]=new Integer[2];
+		arr[4]=number/0;
+		System.out.println("swr");
 	}
 
 }
