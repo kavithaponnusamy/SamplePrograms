@@ -13,6 +13,7 @@ public class Palindrome {
 			System.out.println(str2);
 			
 		}
+		//test
 		if(str1.equalsIgnoreCase(str2)) {
 			System.out.println("Given string is Palindrome");
 		}else
